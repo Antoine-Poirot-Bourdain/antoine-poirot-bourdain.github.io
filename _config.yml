@@ -3,7 +3,7 @@ email: antoine.poirot.bourdain@gmail.com
 descritption: >- #this means to ignore newline until "baseur1:"
   A minimal test.
 Baseur1: "" the subpath of your site, e.g. /blog
-url: "antoine.poirot-bourdain.github.io"
+url: "antoinepoirot-bourdain.github.io"
 
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
