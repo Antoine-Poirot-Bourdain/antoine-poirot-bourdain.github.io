@@ -2,7 +2,7 @@ title: Antoine Poirot-Bourdain
 email: antoine.poirot.bourdain@gmail.com
 descritption: >- #this means to ignore newline until "baseur1:"
   A minimal test.
-Baseur1: "" the subpath of your site, e.g. /blog
+Baseur1: "" #the subpath of your site, e.g. /blog
 url: "antoinepoirot-bourdain.github.io"
 
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
